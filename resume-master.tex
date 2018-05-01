@@ -1,0 +1,172 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Billy Wade},reference={billy-wade}]
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\startxrow
+\startxcell[align=right] 1801 E 4th St \stopxcell
+\startxcell[align=left] billy.wade@protonmail.ch \stopxcell
+\stopxrow
+\startxrow
+\startxcell[align=right] PO Box 2186 \stopxcell
+\startxcell[align=left] github.com/billywade \stopxcell
+\stopxrow
+\startxrow
+\startxcell[align=right] Okmulgee, OK \stopxcell
+\startxcell[align=left] linkedin.com/in/biwade \stopxcell
+\stopxrow
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[align=right] 74447 \stopxcell
+\startxcell[align=left] 1 (918) 613-5110 \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+\subsection[title={Education},reference={education}]
+
+\startdescription{May 2019 (expected)}
+  {\bf B. Tech, Information Technology}; Oklahoma State University
+  Institute of Technology
+\stopdescription
+
+\startdescription{December 2017}
+  {\bf AS, Computer Science}; Oklahoma State University Institute of
+  Technology
+
+  {\bf Magna Cum Laude}
+\stopdescription
+
+\subsection[title={Work Experience},reference={work-experience}]
+
+\startdescription{{\em Customer Service}}
+  T-Mobile, Family Video,
+\stopdescription
+
+\startdescription{{\em Current Position}}
+  Front Desk Attendant - Oklahoma State University Institute of
+  Technology, September 2017 - Present
+\stopdescription
+
+\subsection[title={Technical Skills},reference={technical-skills}]
+
+\startdescription{{\em Programming Languages}}
+  C\#, HTML/CSS, \LaTeX, Python, SQL (SQL Server dialect)
+\stopdescription
+
+\startdescription{{\em Tools Used}}
+  Bash, GIMP, Git, Github
+\stopdescription
+
+\startdescription{{\em Methodologies}}
+  Interactive Programming, Object-Oriented Programming
+\stopdescription
+
+\startdescription{{\em Development Environments}}
+  Command-Line Interfaces, Emacs Editor, Linux (Arch, Debian/Ubuntu),
+  Visual Studio
+\stopdescription
+
+\subsection[title={Projects},reference={projects}]
+
+\startdescription{Linux Administration}
+  I've used Linux for \lettertilde{}7 years full-time, and in that time
+  have deployed home theater systems, local servers, and sustained
+  hardware using lightweight variants of Linux.
+\stopdescription
+
+\startdescription{Python}
+  I use Python for as much as I can for what I want to do for scripting,
+  from working in Ren'Py as gifts to data analysis with the NumPy stack.
+\stopdescription
+
+\startdescription{Side Projects}
+  Actively contributing to/working on multiple code projects, including:
+
+  \startitemize[packed]
+  \item
+    github-white-noise (Javascript)
+  \item
+    numix-solarized-gtk-theme (Python/CSS)
+  \stopitemize
+
+  Promoting data driven methodologies within the school system. I made
+  my job as a desk attendant at OSUIT's Residential Life department a
+  project in digitizing their workflow to increase the department's
+  understanding of the student body, like converting paper forms to
+  Google Forms format for easy-to-interpret results.
+\stopdescription
+
+\stoptext
