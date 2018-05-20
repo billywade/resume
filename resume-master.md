@@ -11,7 +11,7 @@ Okmulgee, OK                  linkedin.com/in/biwade
 Education
 ---------
 
-May 2019 (expected)
+December 2019 (expected)
 :   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology
 
 December 2017
@@ -24,11 +24,11 @@ Work Experience
 
 *Customer Service*
 
-:    T-Mobile, Family Video, 
+:    T-Mobile, Family Video, Oklahoma State University Institute of Technology
 
 *Current Position*
 
-:    Front Desk Attendant - Oklahoma State University Institute of Technology, September 2017 - Present
+:    Computer Technician - Oklahoma State University Institute of Technology, May 2018 - Present
 
 Technical Skills
 -----------------
