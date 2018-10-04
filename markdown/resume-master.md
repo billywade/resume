@@ -13,7 +13,7 @@ Technical Skills
 
 *Programming Languages*
 
-:    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server dialect)
+:    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server dialect), PHP
 
 
 *Tools Used*
@@ -61,7 +61,7 @@ Side Projects
 Education
 ---------
 
-December 2019 (expected)
+August 2019 (expected)
 :   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology
 
 December 2017
