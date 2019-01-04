@@ -2,18 +2,33 @@ Billy Wade
 ============
 
 -------------------     ----------------------------
-1801 E 4th St               billy.wade@protonmail.ch
+1801 E 4th St                       billy.wade@pm.me
 PO Box 2186                     github.com/billywade
 Okmulgee, OK                  linkedin.com/in/biwade
 74447                               1 (918) 613-5110
 -------------------     ----------------------------
+
+Work Experience
+---------------
+
+*Current Position*
+
+:    Computer Technician - Oklahoma State University Institute of Technology, May 2018 - Present
+	
+	I provide support to all of the students on campus, in addition to assisting the desk workers
+	in any way that makes our team work better as a whole.
+
+*Previous Employers*
+
+:    T-Mobile, Family Video, Oklahoma State University Institute of Technology
+
 
 Technical Skills
 -----------------
 
 *Programming Languages*
 
-:    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server dialect), PHP
+:    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server and MySQL dialects), PHP, Java
 
 
 *Tools Used*
@@ -21,37 +36,18 @@ Technical Skills
 :   Bash, GIMP, Git, Github
 
 
-*Methodologies*
-
-:   Interactive Programming, Object-Oriented Programming
-
-
 *Development Environments*
 
 :  Command-Line Interfaces, Emacs Editor, Linux (Arch, Debian/Ubuntu), Visual Studio
 
 
-
-Projects
---------
-
-Linux Administration
-
-:   I've used Linux for ~7 years full-time, and in that time have deployed home theater
-    systems, local servers, and sustained hardware using lightweight variants of Linux. 
-
-Python
-
-:   I use Python for as much as I can for what I want to do for scripting, from working
-	in Ren'Py as gifts to data analysis with the NumPy stack.
-
 Side Projects
 
 :   Actively contributing to/working on multiple code projects, including:
 
-	+ github-white-noise (Javascript)
-	+ numix-solarized-gtk-theme (Python/CSS)
-	+ gLS (C#)
+	+ renpy-mode (Elisp)
+	+ vcromclaim (Python)
+	+ Ishiiruka (C++)
 
 :   Promoting data driven methodologies within the school system. I made my job as a desk attendant
     at OSUIT's Residential Life department a project in digitizing their workflow to increase the 
@@ -67,16 +63,6 @@ August 2019 (expected)
 December 2017
 :   **AS, Computer Science**; Oklahoma State University Institute of Technology **Magna Cum Laude**
 	
-Work Experience
----------------
-
-*Current Position*
-
-:    Computer Technician - Oklahoma State University Institute of Technology, May 2018 - Present
-
-*Previous Employers*
-
-:    T-Mobile, Family Video, Oklahoma State University Institute of Technology
 
 
 
