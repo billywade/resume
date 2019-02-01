@@ -2,26 +2,15 @@ Billy Wade
 ============
 
 -------------------     ----------------------------
-1801 E 4th St                       billy.wade@pm.me
-PO Box 2186                     github.com/billywade
-Okmulgee, OK                  linkedin.com/in/biwade
-74447                               1 (918) 613-5110
+billy.wade@pm.me                    1 (918) 613-5110
+github.com/billywade          linkedin.com/in/biwade
 -------------------     ----------------------------
 
-Work Experience
----------------
 
-*Current Position*
 
-:    Computer Technician - Oklahoma State University Institute of Technology, May 2018 - Present
-	
-	I provide support to all of the students on campus, in addition to assisting the desk workers
-	in any way that makes our team work better as a whole.
-
-*Previous Employers*
-
-:    T-Mobile, Family Video, Oklahoma State University Institute of Technology
-
+Professional Summary
+--------------------
+I'm a student at OSU's satellite campus in Okmulgee majoring in software development and information security. My main languages are C#, SQL, and Python. I'm really looking for my first full-time gig and give back to the software community: I care about contributing both to open source projects and being actively involved in local tech communities.
 
 Technical Skills
 -----------------
@@ -41,27 +30,45 @@ Technical Skills
 :  Command-Line Interfaces, Emacs Editor, Linux (Arch, Debian/Ubuntu), Visual Studio
 
 
-Side Projects
+Experience
+---------------
 
-:   Actively contributing to/working on multiple code projects, including:
+*Work*
 
+:    + Computer Technician <!--- Oklahoma State University Institute of Technology, May 2018 - Present-->
+		+ I am the first line of technical support for the entire student body of OSUIT.
+		+ Skills: Network troubleshooting, software installation, customer care
+<!--	 + T-Mobile
+		 + I sold T-Mobile and Family Mobile accessories in Walmarts in the Tulsa area.
+		 + Skills: Mobile device troubleshooting, providing unique solutions for customers-->
+	 + Family Video
+		 + I provided customer care and store maintenance for Family Video in Okmulgee.
+		 + Skills: Customer care, cash handling
+<!--	I provide support to all of the students on campus, in addition to assisting the desk workers
+	in any way that makes our team work better as a whole. -->
+
+*Projects*
+
+:   I actively contribute to/working on multiple code projects, including:
+	
 	+ renpy-mode (Elisp)
 	+ vcromclaim (Python)
 	+ Ishiiruka (C++)
+	+ yendor (Python)
 
-:   Promoting data driven methodologies within the school system. I made my job as a desk attendant
+<!--:   Promoting data driven methodologies within the school system. I made my job as a desk attendant
     at OSUIT's Residential Life department a project in digitizing their workflow to increase the 
     department's understanding of the student body, like converting paper forms to Google Forms format
-    for easy-to-interpret results. 
+    for easy-to-interpret results. -->
 
 Education
 ---------
 
 August 2019 (expected)
-:   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology
+:   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology **GPA: 3.5**
 
 December 2017
-:   **AS, Computer Science**; Oklahoma State University Institute of Technology **Magna Cum Laude**
+:   **AS, Computer Science**; Oklahoma State University Institute of Technology **Magna Cum Laude; GPA: 3.5**
 	
 
 

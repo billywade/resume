@@ -1,0 +1,16 @@
+*.tuc
+*.log
+# *.pdf
+# *.html
+resume.tex
+*.swo
+*.swp
+# *.docx
+# *.rtf
+
+/.git
+/styles
+Makefile
+#.gitignore#
+.#.gitignore
+docker-compose.yml
