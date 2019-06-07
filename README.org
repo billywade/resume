@@ -1,2 +1,2 @@
 * Resume
-My resume, available in pretty much every format thanks to [[https://github.com/mszep/pandoc_resume].[pandoc_resume]]
+My resume, available in pretty much every format thanks to [[https://github.com/mszep/pandoc_resume][pandoc_resume]].
