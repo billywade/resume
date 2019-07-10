@@ -10,7 +10,11 @@ github.com/billywade          linkedin.com/in/biwade
 
 Professional Summary
 --------------------
-I'm a student at OSU's satellite campus in Okmulgee majoring in software development and information security. My main languages are C#, SQL, and Python. I'm looking for a full-time position where I can utilize my skills and give back to the software community. I care about contributing both to open source projects and being actively involved in local tech communities.
+I'm a student at OSU's satellite campus in Okmulgee majoring in software development and information security.
+
+My main languages are C#, SQL, and Python. I'm looking for a full-time position where I can utilize my skills and give back to the software community. I care about contributing both to open source projects and being actively involved in local tech communities.
+
+I am skilled standard IT technician work, including customer service, managing Active Directory systems, resetting passwords and assisting users with whatever they need. Being an IT technician is being part of the community, and I will always play my part.
 
 Technical Skills
 -----------------
@@ -20,14 +24,14 @@ Technical Skills
 :    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server and MySQL dialects), PHP, Java
 
 
-*Tools Used*
+*Skills*
 
-:   Bash, GIMP, Git, Github
+:   Bash, GIMP, Git, GitHub, Active Directory, Windows Server, Connectwise Manage Ticketing System, ProLaw, Printer Installation, Hardware and Software Troubleshooting, Network Administration
 
 
 *Development Environments*
 
-:  Command-Line Interfaces, Emacs Editor, Linux (Arch, Debian/Ubuntu), Visual Studio
+:  Command-Line Interfaces, Emacs, Linux (Arch, Debian/Ubuntu), Visual Studio (Suite and Code)
 
 
 Experience
@@ -35,7 +39,7 @@ Experience
 
 *Work*
 
-:    + Helpdesk Technician - True Digital Security
+:    + GSD Engineer I - True Digital Security
 		+ I provide level I helpdesk support for our customers.
 		+ Skills: Software troubleshooting, network security
 	 + Computer Technician - Oklahoma State University Institute of Technology <!--- Oklahoma State University Institute of Technology, May 2018 - Present-->
