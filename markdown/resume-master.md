@@ -63,6 +63,12 @@ Experience
 	+ vcromclaim (Python)
 	+ Ishiiruka (C++)
 	+ yendor (Python)
+	
+:   I currently work on a few different hobby network administration projects, including:
+
+	+ File servers
+	+ Home theater PCs
+	+ Linux workstations
 
 <!--:   Promoting data driven methodologies within the school system. I made my job as a desk attendant
     at OSUIT's Residential Life department a project in digitizing their workflow to increase the 
