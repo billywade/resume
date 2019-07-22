@@ -14,7 +14,7 @@ I'm a student at OSU's satellite campus in Okmulgee majoring in software develop
 
 My main languages are C#, SQL, and Python. I'm looking for a full-time position where I can utilize my skills and give back to the software community. I care about contributing both to open source projects and being actively involved in local tech communities.
 
-I am skilled standard IT technician work, including customer service, managing Active Directory systems, resetting passwords and assisting users with whatever they need. Being an IT technician is being part of the community, and I will always play my part.
+<!-- I am skilled standard IT technician work, including customer service, managing Active Directory systems, resetting passwords and assisting users with whatever they need. Being an IT technician is being part of the community, and I will always play my part. -->
 
 Technical Skills
 -----------------
@@ -26,7 +26,7 @@ Technical Skills
 
 *Skills*
 
-:   Bash, GIMP, Git, GitHub, Active Directory, Windows Server, Connectwise Manage Ticketing System, ProLaw, Printer Installation, Hardware and Software Troubleshooting, Network Administration
+:   Bash, GIMP, Git, GitHub, <!-- Active Directory, Windows Server, Connectwise Manage Ticketing System, ProLaw, Printer Installation, Hardware and Software Troubleshooting, Network Administration -->
 
 
 *Development Environments*
@@ -63,10 +63,11 @@ Experience
 		+ Ishiiruka (C++)
 		+ yendor (Python)
 	
-:   + I currently work on a few different hobby network administration projects, including:
-		+ File servers
-		+ Home theater PCs
-		+ Linux workstations
+<!-- :   I currently work on a few different hobby network administration projects, including: -->
+
+<!-- 	+ File servers -->
+<!-- 	+ Home theater PCs -->
+<!-- 	+ Linux workstations -->
 
 <!--:   Promoting data driven methodologies within the school system. I made my job as a desk attendant
     at OSUIT's Residential Life department a project in digitizing their workflow to increase the 
