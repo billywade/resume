@@ -1,16 +1,16 @@
-Billy Wade
+Trey Merkley
 ============
 
 -------------------     ----------------------------
 billy.wade@pm.me                    1 (918) 613-5110
-github.com/billywade          linkedin.com/in/biwade
+github.com/treymerkley          linkedin.com/in/biwade
 -------------------     ----------------------------
 
 
 
 Professional Summary
 --------------------
-I'm a student at OSU's satellite campus in Okmulgee majoring in software development and information security.
+I'm a graduate of OSU's satellite campus in Okmulgee, having majored in software development and information security.
 
 <!-- My main languages are C#, SQL, and Python. I'm looking for a full-time position where I can utilize my skills and give back to the software community. I care about contributing both to open source projects and being actively involved in local tech communities. -->
 
