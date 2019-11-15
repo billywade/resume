@@ -89,7 +89,7 @@ Experience
 Education
 ---------
 
-August 2019 (expected)
+August 2019
 :   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology **GPA: 3.5**
 
 December 2017
