@@ -1,20 +1,21 @@
 % Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
 % Copyright 2014 Mark Szepieniec <http://github.com/mszep>
-% 
+%
 % ConText style for making a resume with pandoc. Inspired by moderncv.
-% 
+%
 % This CSS document is delivered to you under the CC BY-SA 3.0 License.
 % https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 
 \startmode[*mkii]
-  \enableregime[utf-8]  
+  \enableregime[utf-8]
   \setupcolors[state=start]
 \stopmode
 
 \setupcolor[hex]
 \definecolor[titlegrey][h=757575]
-\definecolor[sectioncolor][h=397249]
-\definecolor[rulecolor][h=9cb770]
+%% \definecolor[sectioncolor][h=397249]
+\definecolor[sectioncolor][h=483d8b]
+\definecolor[rulecolor][h=6495ed]
 
 % Enable hyperlinks
 \setupinteraction[state=start, color=sectioncolor]
@@ -90,31 +91,21 @@
 \subsection[title={Professional
 Summary},reference={professional-summary}]
 
-I'm a graduate of Oklahoma State University's satellite campus in
-Okmulgee, having majored in software development and information
-security.
+OSU Okmulgee honors graduate looking for a full time developer role. I
+am a fast learner, perform excellently under pressure, and look forward
+to taking on new challenges in a fast paced company.
 
-My main languages are C\#, SQL, and Python. I'm looking for a full-time
-position where I can utilize my skills and give back to the software
-community. I care about contributing both to open source projects and
-being actively involved in local tech communities.
-
-I am skilled standard IT technician work, including customer service,
-managing Active Directory systems, resetting passwords and assisting
-users with whatever they need. Being an IT technician is being part of
-the community, and I will always play my part.
-
-\subsection[title={Technical Skills},reference={technical-skills}]
+\subsection[title={Highlights},reference={highlights}]
 
 \startdescription{{\em Programming Languages}}
   C\#, HTML/CSS, \LaTeX, Python, SQL (SQL Server and MySQL dialects),
-  PHP, Java
+  PHP, Java, Grok
 \stopdescription
 
-\startdescription{{\em Skills}}
+\startdescription{{\em Tools}}
   Bash, GIMP, Git, GitHub, Active Directory, Windows Server, ConnectWise
-  Manage Ticketing System, ProLaw, Printer Installation, Hardware and
-  Software Troubleshooting, Network Administration
+  TMS, Printer Installation, Hardware and Software Troubleshooting,
+  Network Administration, Elastic Stack
 \stopdescription
 
 \startdescription{{\em Development Environments}}
@@ -122,55 +113,167 @@ the community, and I will always play my part.
   Studio (Suite and Code)
 \stopdescription
 
+\subsection[title={Skills},reference={skills}]
+
+\startdescription{{\em Technical}}
+  \startitemize[packed]
+  \item
+    C\#
+    \startitemize[packed]
+    \item
+      .NET, Core, Framework, and Mono
+    \item
+      Complex GUI applications using Visual Studio 2010-2017
+    \item
+      ADO.NET apps for server access and data manipulation
+    \stopitemize
+  \item
+    Java
+    \startitemize[packed]
+    \item
+      Used Android Studio 2015 to develop Android applications
+    \stopitemize
+  \item
+    Python
+    \startitemize[packed]
+    \item
+      Graphical wrappers for command line packages and Python-based APIs
+      using Qt5 via PyQt5/PySide2
+    \item
+      Pandas and MatPlotLib
+    \stopitemize
+  \item
+    SQL
+    \startitemize[packed]
+    \item
+      Manipulated SQL Server and MariaDB
+    \item
+      graphical frontend and terminal
+    \stopitemize
+  \stopitemize
+\stopdescription
+
+{\bf {\em Other}}
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\startxrow
+\startxcell[align=right] • fast learner \stopxcell
+\startxcell • perform exceptionally under pressure \stopxcell
+\stopxrow
+\startxrow
+\startxcell[align=right] • goal oriented \stopxcell
+\startxcell • prioritize tasks effectively \stopxcell
+\stopxrow
+\startxrow
+\startxcell[align=right] • stays organized \stopxcell
+\startxcell • work well with a team \stopxcell
+\stopxrow
+\startxrow
+\startxcell[align=right] • accountable \stopxcell
+\startxcell • solve problems creatively \stopxcell
+\stopxrow
+\startxrow
+\startxcell[align=right] • committed to optimization \stopxcell
+\startxcell • effective communicator \stopxcell
+\stopxrow
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[align=right] • analytical \stopxcell
+\startxcell • passionate about software \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
 \subsection[title={Experience},reference={experience}]
 
 \startdescription{{\em Work}}
   \startitemize[packed]
   \item
-    GSD Engineer I - True Digital Security
+    Global Service Desk Engineer I - True Digital Security
     \startitemize[packed]
     \item
-      I provide level I help-desk support for our customers.
+      I am the first line of support for our clients from across the
+      country. I provide them with Tier I and Tier II technical support,
+      addressing a wide range of issues such as maintaining security and
+      credentials, diagnosing and resolving problems with business
+      applications, AWS virtual workstations, troubleshooting hardware
+      failures.
     \item
-      Skills: Software troubleshooting, network security
+      I develop Grok queries and Python scripts to parse log data and
+      work closely with the DevOps team to provide world-class data
+      analysis and visualization to our clients along with excellent
+      customer service. 
     \stopitemize
   \item
     Computer Technician - Oklahoma State University Institute of
     Technology
     \startitemize[packed]
     \item
-      I am the first line of technical support. 
+      I was the primary IT technician for the student body of OSUIT. I
+      analyzed, troubleshooted, and implemented solutions to maintain an
+      extensive, school-wide network and provide on-site troubleshooting
+      for hundreds of students and faculty members campus-wide. 
     \item
       Skills: Network troubleshooting, software installation, customer
-      care 
+      care
     \stopitemize
   \item
     Customer Service Representative -Family Video
     \startitemize[packed]
     \item
-      I provided customer care and store maintenance for Family Video in
-      Okmulgee.
-    \item
-      Skills: Customer care, cash handling 
+      Kept up-to-date knowledge on inventory, met or exceeded required
+      sales and customer service metrics, maintained an organized
+      salesfloor. Provided basic troubleshooting and excellent customer
+      service.
     \stopitemize
   \stopitemize
 \stopdescription
 
 \startdescription{{\em Projects}}
-  \startitemize[packed]
+  \startitemize
   \item
-    I actively contribute to/working on multiple code projects,
+    I actively contribute to/mantain multiple software projects,
     including:
+
     \startitemize[packed]
     \item
       renpy-mode (Elisp)
+    \stopitemize
+
+    Syntax highlighting framework on Emacs for the Ren'Py game engine. I
+    am currently the sole maintainer for the renpy-mode software.
+
+    \startitemize[packed]
     \item
       codefortulsa/clear-my-record (JavaScript)
+    \stopitemize
+
+    Client-side app for the Code for Tulsa civic action nonprofit to
+    automate the process of clearing the criminal records of applicable
+    people. I fleshed out the form with extra fields and implemented
+    professional document formatting to the resulting form.
+
+    \startitemize[packed]
     \item
       microsoft/msbuild (C\#)
+    \stopitemize
+
+    The C\# compiler. I added more information to multiple error
+    messages and provided repository maintenance.
+
+    \startitemize[packed]
     \item
       openmw-nif-cleaner (Python)
     \stopitemize
+
+    Project to provide an easy-to-use, automated method of porting
+    texture files from the archaic Gamebryo engine to the modern OpenMW
+    engine. I wrote the GUI and tied it to the backend, as well as
+    refactored and optimized the code for the backend.
   \stopitemize
 
   \startitemize[packed]
@@ -188,54 +291,11 @@ the community, and I will always play my part.
   \stopitemize
 \stopdescription
 
-\startdescription{{\em Skills}}
-  \startitemize[packed]
-  \item
-    C\#
-    \startitemize[packed]
-    \item
-      I have experience with all three major implementations of .NET,
-      Core, Framework, and Mono
-    \item
-      I have experience developing complex GUI applications using Visual
-      Studio 2010-2017, following the MVC pattern
-    \item
-      Developed ADO.NET apps for server access and data manipulation
-    \stopitemize
-  \item
-    Java
-    \startitemize[packed]
-    \item
-      Used Android Studio 2015 to develop Android applications in Java,
-      both developing the graphical frontend and the underpinning logic
-    \stopitemize
-  \item
-    Python
-    \startitemize[packed]
-    \item
-      Developed graphical wrappers for command line packages and
-      Python-based APIs using Qt5 via PyQt5/PySide2
-    \item
-      Used libraries like Pandas and MatPlotLib to visualize and
-      manipulate data
-    \stopitemize
-  \item
-    SQL
-    \startitemize[packed]
-    \item
-      Built databases in SQL Server
-    \item
-      Manipulated SQL Server and MariaDB databases using both the
-      graphical frontend and terminal
-    \stopitemize
-  \stopitemize
-\stopdescription
-
 \subsection[title={Education},reference={education}]
 
 \startdescription{August 2019}
   {\bf B. Tech, Information Technology}; Oklahoma State University
-  Institute of Technology {\bf GPA: 3.5}
+  Institute of Technology {\bf Summa Cum Laude; GPA: 3.3}
 \stopdescription
 
 \startdescription{December 2017}

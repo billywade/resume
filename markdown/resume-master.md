@@ -23,7 +23,7 @@ Highlights
 
 *Tools*
 
-:   Bash, GIMP, Git, GitHub, Elastic Stack, Active Directory, Windows Server, ConnectWise Manage Ticketing System, ProLaw, Printer Installation, Hardware and Software Troubleshooting, Network Administration
+:   Bash, GIMP, Git, GitHub, Active Directory, Windows Server, ConnectWise TMS, Printer Installation, Hardware and Software Troubleshooting, Network Administration, Elastic Stack
 
 
 *Development Environments*
@@ -52,14 +52,16 @@ Skills
        + Manipulated SQL Server and MariaDB
        + graphical frontend and terminal
 
-*Other*
+***Other***
 
-fast learner		perform exceptionally under pressure
-goal oriented		prioritize tasks effectively
-stays organized		work well with a team
-accountable			solve problems creatively
-committed to optimization		effective communicator
-analytical		passionate about software
+-------------------           ----------------------------
+• fast learner                • perform exceptionally under pressure
+• goal oriented	              • prioritize tasks effectively
+• stays organized		      • work well with a team
+• accountable			      • solve problems creatively
+• committed to optimization   • effective communicator
+• analytical		          • passionate about software
+-------------------           ----------------------------
 
 
 Experience
@@ -73,7 +75,7 @@ Experience
 		<!-- + I provide level I help-desk support for our customers.
 		+ Skills: Software troubleshooting, network security -->
 	 + Computer Technician - Oklahoma State University Institute of Technology <!--- Oklahoma State University Institute of Technology, May 2018 - Present-->
-	    + I was the primary IT technician for the student body of OSUIT. I analyzed, troubleshooted, and implemented solutions to maintain an extensive, school-wide network and provide on-site troubleshooting for hundreds of students and faculty members campus-wide. 
+	    + I was the primary IT technician for the student body of OSUIT. I analyzed, troubleshooted, and implemented solutions to maintain an extensive, school-wide network and provide on-site troubleshooting for hundreds of students and faculty members campus-wide.
 		<!-- + I was the first line of technical support for the entire student body of OSUIT. -->
 		+ Skills: Network troubleshooting, software installation, customer care
 
@@ -82,17 +84,25 @@ Experience
 
 *Projects*
 
-:   + I actively contribute to/mantain multiple software projects, including:
-		+ renpy-mode (Elisp)
-			+ Syntax highlighting framework on Emacs for the Ren'Py game engine. I am currently the sole maintainer for the renpy-mode software.
-		+ codefortulsa/clear-my-record (JavaScript)
-			+ Client-side app for the Code for Tulsa civic action nonprofit to automate the process of clearing the criminal records of applicable people. I fleshed out the form with extra fields and implemented professional document formatting to the resulting form.
-		+ microsoft/msbuild (C#)
-			+ The C# compiler. I added more information to multiple error messages and provided repository maintenance.
-		+ openmw-nif-cleaner (Python)
-			+ Project to provide an easy-to-use, automated method of porting texture files from the archaic Gamebryo engine to the modern OpenMW engine. I wrote the GUI and tied it to the backend, as well as refactored and optimized the code for the backend.
+:    + I actively contribute to/mantain multiple software projects, including:
 
-:   + I currently work on a few different hobby network administration projects, including:
+		+ renpy-mode (Elisp)
+
+		Syntax highlighting framework on Emacs for the Ren'Py game engine. I am currently the sole maintainer for the renpy-mode software.
+
+		+ codefortulsa/clear-my-record (JavaScript)
+
+		Client-side app for the Code for Tulsa civic action nonprofit to automate the process of clearing the criminal records of applicable people. I fleshed out the form with extra fields and implemented professional document formatting to the resulting form.
+
+		+ microsoft/msbuild (C#)
+
+		The C# compiler. I added more information to multiple error messages and provided repository maintenance.
+
+		+ openmw-nif-cleaner (Python)
+
+		Project to provide an easy-to-use, automated method of porting texture files from the archaic Gamebryo engine to the modern OpenMW engine. I wrote the GUI and tied it to the backend, as well as refactored and optimized the code for the backend.
+
+:    + I currently work on a few different hobby network administration projects, including:
 		+ File servers
 		+ Home theater PCs
 		+ Linux workstations

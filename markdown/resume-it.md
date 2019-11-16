@@ -1,4 +1,3 @@
-
 Trey Merkley
 ============
 
@@ -11,23 +10,20 @@ github.com/treymerkley          linkedin.com/in/biwade
 
 Professional Summary
 --------------------
-I'm a graduate of Oklahoma State University's satellite campus in Okmulgee, having majored in software development and information security.
+OSU Okmulgee honors graduate looking for a full time developer role. I am a fast learner, perform excellently under pressure, and look forward to taking on new challenges in a fast paced company.
 
-<!-- My main languages are C#, SQL, and Python. I'm looking for a full-time position where I can utilize my skills and give back to the software community. I care about contributing both to open source projects and being actively involved in local tech communities. -->
 
-I am skilled standard IT technician work, including customer service, managing Active Directory systems, resetting passwords and assisting users with whatever they need. Being an IT technician is being part of the community, and I will always play my part.
-
-Technical Skills
+Highlights
 -----------------
 
 <!-- *Programming Languages* -->
 
-<!-- :    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server and MySQL dialects), PHP, Java -->
+<!-- :    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server and MySQL dialects), PHP, Java, Grok -->
 
 
-*Skills*
+*Tools*
 
-:   <!-- Bash, GIMP, Git, GitHub, --> Active Directory, Windows Server, ConnectWise Manage Ticketing System, ProLaw, Printer Installation, Hardware and Software Troubleshooting, Network Administration
+:   Bash, <!-- GIMP, Git, GitHub,  -->Active Directory, Windows Server, ConnectWise TMS, Printer Installation, Hardware and Software Troubleshooting, Network Administration, Elastic Stack
 
 
 <!-- *Development Environments* -->
@@ -35,62 +31,89 @@ Technical Skills
 <!-- :  Command-Line Interfaces, Emacs, Linux (Arch, Debian/Ubuntu), Visual Studio (Suite and Code) -->
 
 
+Skills
+-----------------
+
+<!-- *Technical* -->
+
+<!-- :   + C# -->
+<!--        + .NET, Core, Framework, and Mono -->
+<!--        + Complex GUI applications using Visual Studio 2010-2017 -->
+<!--        + ADO.NET apps for server access and data manipulation -->
+
+<!--     + Java -->
+<!--        + Used Android Studio 2015 to develop Android applications -->
+
+<!--     + Python -->
+<!--        + Graphical wrappers for command line packages and Python-based APIs using Qt5 via PyQt5/PySide2 -->
+<!--        + Pandas and MatPlotLib -->
+
+<!--     + SQL -->
+<!--        + Manipulated SQL Server and MariaDB -->
+<!--        + graphical frontend and terminal -->
+
+<!-- ***Other*** -->
+
+-------------------           ----------------------------
+• fast learner                • perform exceptionally under pressure
+• goal oriented	              • prioritize tasks effectively
+• stays organized		      • work well with a team
+• accountable			      • solve problems creatively
+• committed to optimization   • effective communicator
+• analytical		          • passionate about software
+-------------------           ----------------------------
+
+
 Experience
 ---------------
 
 *Work*
 
-:    + GSD Engineer I - True Digital Security
-		+ I provide level I help-desk support for our customers.
-		+ Skills: Software troubleshooting, network security
+:    + Global Service Desk Engineer I - True Digital Security
+		+ I am the first line of support for our clients from across the country. I provide them with Tier I and Tier II technical support, addressing a wide range of issues such as maintaining security and credentials, diagnosing and resolving problems with business applications, AWS virtual workstations,  troubleshooting hardware failures.
+		+ I develop Grok queries and Python scripts to parse log data and work closely with the DevOps team to provide world-class data analysis and visualization to our clients along with excellent customer service.
+		<!-- + I provide level I help-desk support for our customers.
+		+ Skills: Software troubleshooting, network security -->
 	 + Computer Technician - Oklahoma State University Institute of Technology <!--- Oklahoma State University Institute of Technology, May 2018 - Present-->
-	    + I am the first line of technical support.
+	    + I was the primary IT technician for the student body of OSUIT. I analyzed, troubleshooted, and implemented solutions to maintain an extensive, school-wide network and provide on-site troubleshooting for hundreds of students and faculty members campus-wide.
 		<!-- + I was the first line of technical support for the entire student body of OSUIT. -->
 		+ Skills: Network troubleshooting, software installation, customer care
-<!--	 + T-Mobile
-		 + I sold T-Mobile and Family Mobile accessories in Walmarts in the Tulsa area.
-		 + Skills: Mobile device troubleshooting, providing unique solutions for customers-->
+
 	 + Customer Service Representative  -Family Video
-		 + I provided customer care and store maintenance for Family Video in Okmulgee.
-		 + Skills: Customer care, cash handling
-<!--	I provide support to all of the students on campus, in addition to assisting the desk workers
-	in any way that makes our team work better as a whole. -->
+	 	+ Kept up-to-date knowledge on inventory, met or exceeded required sales and customer service metrics, maintained an organized salesfloor. Provided basic troubleshooting <!-- people would come in with scratched DVDs and I'd clean them, I'd help them with their phones there if they asked, and I fixed the printer and DVD cleaners if needed -->and excellent customer service.
 
 *Projects*
 
-:   + I currently work on a few different hobby network administration projects, including:
+:    + I currently work on a few different hobby network administration projects, including:
 		+ File servers
 		+ Home theater PCs
 		+ Linux workstations
 
-<!--:   Promoting data driven methodologies within the school system. I made my job as a desk attendant
-    at OSUIT's Residential Life department a project in digitizing their workflow to increase the
-    department's understanding of the student body, like converting paper forms to Google Forms format
-    for easy-to-interpret results. -->
+<!-- :    + I actively contribute to/mantain multiple software projects, including: -->
 
-<!-- *Skills* -->
+<!-- 		+ renpy-mode (Elisp) -->
 
-<!-- :   + C# -->
-<!--        + I have experience with all three major implementations of .NET, Core, Framework, and Mono -->
-<!--        + I have experience developing complex GUI applications using Visual Studio 2010-2017, following the MVC pattern -->
-<!--        + Developed ADO.NET apps for server access and data manipulation -->
+<!-- 		Syntax highlighting framework on Emacs for the Ren'Py game engine. I am currently the sole maintainer for the renpy-mode software. -->
 
-<!--     + Java -->
-<!--        + Used Android Studio 2015 to develop Android applications in Java, both developing the graphical frontend and the underpinning logic -->
+<!-- 		+ codefortulsa/clear-my-record (JavaScript) -->
 
-<!--     + Python -->
-<!--        + Developed graphical wrappers for command line packages and Python-based APIs using Qt5 via PyQt5/PySide2 -->
-<!--        + Used libraries like Pandas and MatPlotLib to visualize and manipulate data -->
+<!-- 		Client-side app for the Code for Tulsa civic action nonprofit to automate the process of clearing the criminal records of applicable people. I fleshed out the form with extra fields and implemented professional document formatting to the resulting form. -->
 
-<!--     + SQL -->
-<!--        + Built databases in SQL Server -->
-<!--        + Manipulated SQL Server and MariaDB databases using both the graphical frontend and terminal -->
+<!-- 		+ microsoft/msbuild (C#) -->
+
+<!-- 		The C# compiler. I added more information to multiple error messages and provided repository maintenance. -->
+
+<!-- 		+ openmw-nif-cleaner (Python) -->
+
+<!-- 		Project to provide an easy-to-use, automated method of porting texture files from the archaic Gamebryo engine to the modern OpenMW engine. I wrote the GUI and tied it to the backend, as well as refactored and optimized the code for the backend. -->
+
+
 
 Education
 ---------
 
 August 2019
-:   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology **GPA: 3.5**
+:   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology **Summa Cum Laude; GPA: 3.3**
 
 December 2017
 :   **AS, Computer Science**; Oklahoma State University Institute of Technology **Magna Cum Laude; GPA: 3.5**
