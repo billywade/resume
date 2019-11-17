@@ -77,7 +77,6 @@ Experience
 	 + Computer Technician - Oklahoma State University Institute of Technology <!--- Oklahoma State University Institute of Technology, May 2018 - Present-->
 	    + I was the primary IT technician for the student body of OSUIT. I analyzed, troubleshooted, and implemented solutions to maintain an extensive, school-wide network and provide on-site troubleshooting for hundreds of students and faculty members campus-wide.
 		<!-- + I was the first line of technical support for the entire student body of OSUIT. -->
-		+ Skills: Network troubleshooting, software installation, customer care
 
 	 + Customer Service Representative  -Family Video
 	 	+ Kept up-to-date knowledge on inventory, met or exceeded required sales and customer service metrics, maintained an organized salesfloor. Provided basic troubleshooting <!-- people would come in with scratched DVDs and I'd clean them, I'd help them with their phones there if they asked, and I fixed the printer and DVD cleaners if needed -->and excellent customer service.

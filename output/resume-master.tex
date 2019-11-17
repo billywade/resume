@@ -23,14 +23,14 @@
 \setuppapersize [A4][A4]
 \setuplayout    [width=middle, height=middle,
                  backspace=20mm, cutspace=0mm,
-                 topspace=10mm, bottomspace=20mm,
+                 topspace=10mm, bottomspace=30mm,
                  header=0mm, footer=0mm]
 
 %\setuppagenumbering[location={footer,center}]
 
-\setupbodyfont[11pt, helvetica]
+\setupbodyfont[10.3pt, helvetica]
 
-\setupwhitespace[medium]
+\setupwhitespace[small]
 
 \setupblackrules[width=31mm, color=rulecolor]
 
@@ -50,7 +50,7 @@
    location=hanging, width=18mm, distance=14mm, margin=0cm]
 
 \setupitemize[autointro, packed]    % prevent orphan list intro
-\setupitemize[indentnext=no]
+\setupitemize[indentnext=no,margin=-3.2cm]
 
 \setupfloat[figure][default={here,nonumber}]
 \setupfloat[table][default={here,nonumber}]
@@ -58,11 +58,11 @@
 \setuptables[textwidth=max, HL=none]
 \setupxtable[frame=off,option={stretch,width}]
 
-\setupthinrules[width=15em] % width of horizontal rules
+\setupthinrules[width=30em] % width of horizontal rules
 
 \setupdelimitedtext
   [blockquote]
-  [before={\setupalign[middle]},
+  [before={\setupalign[left]},
    indentnext=no,
   ]
 
@@ -217,9 +217,6 @@ to taking on new challenges in a fast paced company.
       analyzed, troubleshooted, and implemented solutions to maintain an
       extensive, school-wide network and provide on-site troubleshooting
       for hundreds of students and faculty members campus-wide. 
-    \item
-      Skills: Network troubleshooting, software installation, customer
-      care
     \stopitemize
   \item
     Customer Service Representative -Family Video
