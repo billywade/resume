@@ -18,7 +18,7 @@ Highlights
 
 *Programming Languages*
 
-:    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server and MySQL dialects), PHP, Java, Grok
+:    C#, HTML/CSS, \LaTeX, Python, SQL (SQL Server and MySQL dialects), PHP, Java, Grok, JavaScript
 
 
 *Tools*
