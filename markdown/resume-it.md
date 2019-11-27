@@ -3,7 +3,7 @@ Trey Merkley
 
 -------------------     ----------------------------
 billy.wade@pm.me                    1 (918) 613-5110
-github.com/treymerkley          linkedin.com/in/biwade
+github.com/treymerkley          linkedin.com/in/treymerkley
 -------------------     ----------------------------
 
 
