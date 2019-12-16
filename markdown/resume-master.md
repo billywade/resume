@@ -69,14 +69,14 @@ Experience
 
 *Work*
 
-:    + Global Service Desk Engineer I - True Digital Security
+:    + Global Service Desk Engineer I • True Digital Security • Apr 2019 - Present
 		+ I am the first line of support for our clients from across the country. I provide them with Tier I and Tier II technical support, addressing a wide range of issues such as maintaining security and credentials, diagnosing and resolving problems with business applications, AWS virtual workstations,  troubleshooting hardware failures.
 		+ I develop Grok queries and Python scripts to parse log data and work closely with the DevOps team to provide world-class data analysis and visualization to our clients along with excellent customer service.
 		<!-- + I provide level I help-desk support for our customers.
 		+ Skills: Software troubleshooting, network security -->
-     + Intern - The Blyth Institute
+     + Intern • The Blyth Institute • Jan 2019 - Mar 2019
         + I applied the concept of Generalized Information, developed at The Blyth Institute, to practical problems in machine learning, including identifying potential datasets to utilize for testing, identifying the machine learning platforms/algorithms to use for testing, working with the institute to establish active information measurement methodologies within those platforms and algorithms, working with the institute to establish a methodology of model size assignment within those platforms and algorithms, and testing machine learning models in Ruby to determine if Generalized Information is able to successfully identify valid models.
-     + Computer Technician - Oklahoma State University Institute of Technology <!--- Oklahoma State University Institute of Technology, May 2018 - Present-->
+     + Computer Technician • Oklahoma State University Institute of Technology • Sep 2017 - Apr 2019 <!--- Oklahoma State University Institute of Technology, May 2018 - Present-->
 	    + I was the primary IT technician for the student body of OSUIT. I analyzed, troubleshooted, and implemented solutions to maintain an extensive, school-wide network and provide on-site troubleshooting for hundreds of students and faculty members campus-wide.
 		<!-- + I was the first line of technical support for the entire student body of OSUIT. -->
 
@@ -111,7 +111,7 @@ Education
 ---------
 
 August 2019
-:   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology **Summa Cum Laude; GPA: 3.3**
+:   **B. Tech, Information Technology**; Oklahoma State University Institute of Technology **Cum Laude; GPA: 3.3**
 
 December 2017
 :   **AS, Computer Science**; Oklahoma State University Institute of Technology **Magna Cum Laude; GPA: 3.5**
